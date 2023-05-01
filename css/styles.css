@@ -1,0 +1,105 @@
+*{
+    margin:0px;
+    padding: 0px;
+    font: 100 14px "Roboto";
+}
+
+h1{
+    font-size: 36px;
+    font-weight: 500;
+}
+
+h2{
+    font-size: 20px;
+    font-weight: 300;
+    
+}
+h3{
+    margin-top: 10px;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+ul{
+    margin-top: 5px;
+    font-size: 16px;
+    list-style: none;
+}
+
+img{
+    border-radius: 100%;
+    display: inline-block;
+    margin: 50px 0px 0px 50px;
+    
+}
+
+#datos{
+    height: 200px;
+    margin: 50px 0px 0px 40px;
+    padding-left: 25px ;
+    display:inline-block;
+    vertical-align: top;
+    border-left: 1px solid rebeccapurple;
+
+}
+
+
+
+#redes{
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+
+}
+
+#redes a{
+    margin: 0 10px;
+    font-size: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+
+#facebook{
+    background-image: url(../imagenes/facebook.png);
+}
+
+#instagram{
+    background-image: url(../imagenes/instagram.png);
+}
+
+#twitter{
+    background-image: url(../imagenes/gorjeo.png);
+}
+
+
+/*#facebook{
+    margin: 5px 2px 5px 0px;
+    display: inline-block;
+    
+    
+}
+#facebook a{
+    font-size: 0;
+    background-image: url(../imagenes/facebook.png);
+    background-size: 50px;
+
+}
+
+
+
+
+#instagram{
+    margin: 5px 2px 5px 2px;
+    display: inline-block;
+    font-size: 0%;
+    background-image: url();
+}
+
+#twitter{
+    margin: 5px 2px 5px 2px;
+    display: inline-block;
+    background-image: url();
+}
+*/
+
